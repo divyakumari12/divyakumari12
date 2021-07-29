@@ -1,7 +1,7 @@
 - 👋 Hi,there!
    I’m @divyakumari12
 - 👀 I’m interested in coding , contributing to open source projects in every possible way because I believe even a small contribution counts.
-- 🌱 I’m currently learning C++ and DSA.
+- 🌱 I’m currently learning JAVA and DSA.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me :
    Linkedln: https://www.linkedin.com/in/divya-kumari-0652501b7
