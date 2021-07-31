@@ -4,9 +4,13 @@
 - 🌱 I’m currently learning JAVA and DSA.
 - 💞️ I’m looking to collaborate on open source projects.
 - 📫 How to reach me :
+- 
    Linkedln: https://www.linkedin.com/in/divya-kumari-0652501b7
+   
    E-mail: divya7364sharma@gmail.com
+   
    Instagram: https://www.instagram.com/itxdivya._
+   
    Twitter : https://www.twitter.com/itxdivya
 
 <!---
